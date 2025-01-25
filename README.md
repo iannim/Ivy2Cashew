@@ -1,6 +1,6 @@
 # Ivy Wallet to Cashew CSV Converter
 
-I have been a dedicated user of ([Ivy Wallet](https://ivywallet.app/)), an open-source money manager app for Android. However, as of November 5th, 2024, Ivy Wallet is ([no longer maintained](https://github.com/Ivy-Apps/ivy-wallet)) by the original developers.
+I have been a dedicated user of [Ivy Wallet](https://ivywallet.app/), an open-source money manager app for Android. However, as of November 5th, 2024, Ivy Wallet is [no longer maintained](https://github.com/Ivy-Apps/ivy-wallet) by the original developers.
 
 In search of a reliable alternative, I discovered [Cashew](https://cashewapp.web.app).
 
